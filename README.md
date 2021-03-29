@@ -52,7 +52,7 @@
 ---
 
 <details>
-  <summary>### :zap: GitHub Stats</summary>
+###  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="SydQuddus's GitHub Stats" src="https://github-readme-stats-sydquddus.vercel.app/api?username=SydQuddus&show_icons=true&hide_border=true" />
 
