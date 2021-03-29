@@ -47,6 +47,8 @@
   <summary>:zap: Recent Activity</summary>
 
   <!--START_SECTION:activity-->
+1. 🗣 Commented on [#8](https://github.com/olexale/flutter_roadmap/issues/8) in [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap)
+<!--END_SECTION:activity-->
 
 </details>
 
