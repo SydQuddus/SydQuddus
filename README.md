@@ -1,7 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syed Quddus
+<h1 align="center">Hi There, I'm Quddus<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <!-- - [My Portfolio][website] 👋 -->
+<h3 align="center">I'm a Final Year Bachelor of Computer Science Student and hopefully your next colleague!</h3>
 
-## I'm a Final Year Bachelor of Computer Science Student and hopefully your next colleague!
 
 - 🔭 Get to know me in person: [My Introductory Video][videocv]!
 - 🌱 I’m currently learning everything 🤣
