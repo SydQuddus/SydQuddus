@@ -1,7 +1,7 @@
 ### Hi there, I'm Syed Abdul Quddus 👋 
 <!-- - [My Portfolio][website] 👋 -->
 
-## I'm a Final Year Student Bachelor of Computer Science Student and hopefully your next colleague!!
+## I'm a Final Year Bachelor of Computer Science Student and hopefully your next colleague!
 
 - 🔭 Get to know me in person: [My Introductory Video][videocv]!
 - 🌱 I’m currently learning everything 🤣
