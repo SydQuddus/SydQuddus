@@ -1,4 +1,4 @@
-<h1 align="left">Hi There, I'm Quddus<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="left">Hi There, I'm Quddus <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <!-- - [My Portfolio][website] 👋 -->
 <h3 align="left">I'm a Final Year Bachelor of Computer Science Student and hopefully your next colleague!</h3>
 
