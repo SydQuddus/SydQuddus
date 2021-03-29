@@ -1,4 +1,4 @@
-### Hi there, I'm Syed Abdul Quddus 👋 
+### Hi there, I'm Syed Abdul Quddus <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!-- - [My Portfolio][website] 👋 -->
 
 ## I'm a Final Year Bachelor of Computer Science Student and hopefully your next colleague!
