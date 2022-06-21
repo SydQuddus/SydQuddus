@@ -5,8 +5,8 @@
 
 - 🔭 Get to know me in person: [My Introductory Video][videocv]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m seeking an internship before graduating my degree
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’ve finished my bachelor and now looking forward in working with prestigious organization
+- 🥅 2022 Goals: Learning more about effective problem solving in software engineering
 - 📫 How to reach me: SydQuddus@gmail.com
 - ⚡ Fun fact: I love to travel and make new friends all over the world
 
